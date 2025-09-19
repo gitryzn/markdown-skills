@@ -13,3 +13,7 @@ import time
 print("hello")
 time.sleep(2)
 ```
+
+- [ ] Make cool github page
+- [ ] Make a portfolio
+- [x] Say hello world
